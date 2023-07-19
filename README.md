@@ -36,6 +36,7 @@ I have always had an interest in investments and financial markets. As I have ga
 * [Alpha Vantage API Documentation](https://www.alphavantage.co/documentation/)
 * [Vue JS](https://vuejs.org/)
 * [Plotly JS](https://plotly.com/javascript/)
+* [TensorFlow JS](https://www.tensorflow.org/js)
 
 # Future Work
 
