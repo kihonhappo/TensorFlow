@@ -1,0 +1,82 @@
+
+/* This is the main css file for the application */
+
+
+.debug-txt-area{width: 100%; height: 300px;}
+.debug-cont{}
+.hide{display: none;}
+
+.green{color: green;}
+.purple{color: purple;}
+
+/* Stocks */
+
+.stock-list{
+    margin-top: -15px; 
+    padding-top: 0px; 
+    z-index: 100; 
+    position: absolute; 
+    border: 1px solid black; 
+    max-height: 300px; 
+    overflow-y: auto;
+    width: 190px;
+}
+
+.search-cont{margin-bottom: 0px; padding-bottom: 0px;}
+
+.drop-cont{}
+
+/* Header */
+
+header{border-bottom: 2px solid black; margin: 20px; padding-bottom: 20px;}
+
+/* Main */
+
+main{height: 520px; border-bottom: 2px solid black; padding-bottom: 20px; margin-bottom: 20px;}
+
+/* Details */
+.details{border: 1px solid black;}
+.details h5{padding-bottom: 10px;  border-bottom: 1px solid black;}
+/* Properties */
+.properties{height: 100px; overflow-y: auto;}
+.property-cont h5{padding-top: 10px;}
+
+.train{padding-left: 5px; padding-right: 5px; padding-top: 10px; margin-top: 10px; border-top: 1px solid black;}
+.train form{ padding-bottom: 20px;}
+
+.div_traininglog{
+    overflow-x: scroll; overflow-y: scroll; height: 250px;
+}
+
+.table-data{padding-left: 0px;}
+
+    /* History Table */
+    .table-cont{
+        height: 450px;
+        overflow-y: auto;
+        
+    }
+    .tab-pane{}
+    .history-table{
+        border-collapse: collapse;
+    }
+    .history-table thead{
+        background: white;
+        position: sticky;
+        top: 0; /* Don't forget this, required for the stickiness */
+        box-shadow: 0 2px 2px -1px rgba(0, 0, 0, 0.4);
+    }
+
+    /* History Graph */
+    #history-graph{}
+
+    /* Raw Tab */
+    .raw-tab{height: 450px; overflow-y: auto;}
+
+    .fa-spinner{margin-left: 10px;}
+
+    .progress{margin-top: 20px;}
+
+/* Footer */
+
+.footer{margin-top: 20px;}
