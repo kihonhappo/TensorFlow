@@ -40,7 +40,7 @@ I have always had an interest in investments and financial markets. As I have ga
 
 # Future Work
 
-* Fix the preditions function Troubleshoot
+* Fix the preditions function problem. The predictions, 30% data set, seems to be off but the training 70% data set looks to be correct.
 * Add Commodities, Exchange Rates, Digital Exchange
 * Create model modifiers like geo-politics and economic indicators  
 * Add an investor risk aversion assessment tool - this could help minimize the investor "buyers Remorse"
