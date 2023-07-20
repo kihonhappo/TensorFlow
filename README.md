@@ -8,8 +8,10 @@ The data sets I am accessing for this Application are from Alpha Vantage, a free
 
 I have always had an interest in investments and financial markets. As I have gained experience as a Full-Stack Developer, I have had a desire to dive into understanding how to leverage my skills to better position my family’s financial position. I also recognize that I tend to enjoy gambling and have been looking for a way to minimize the emotional part of investing by leveraging aspects of A.I. and machine learning.
 
-[DLD Stock Predictor Intro and Demo ](http://youtube.link.goes.here)
-[DLD Stock Predictor Results Walk Through and Explanation](https://youtu.be/Xg7i2td3_JQ)
+# Demo Videos
+
+* [DLD Stock Predictor Intro ](http://youtube.link.goes.here)
+* [DLD Stock Predictor Results Walk Through and Explanation](https://youtu.be/Xg7i2td3_JQ)
 
 # Data Analysis Results
 
