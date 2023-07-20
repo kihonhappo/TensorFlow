@@ -10,7 +10,7 @@ I have always had an interest in investments and financial markets. As I have ga
 
 # Demo Videos
 
-* [DLD Stock Predictor Intro ](http://youtube.link.goes.here)
+* [DLD Stock Predictor Intro ](https://youtu.be/lEaxt2eYrpY)
 * [DLD Stock Predictor Results Walk Through and Explanation](https://youtu.be/Xg7i2td3_JQ)
 
 # Data Analysis Results
